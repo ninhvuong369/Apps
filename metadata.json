@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EcoSort AI - Phân Loại Rác",
+  "description": "Ứng dụng giúp bạn phân loại rác thải nhanh chóng bằng AI. Chỉ cần chụp ảnh, AI sẽ cho bạn biết cách xử lý đúng.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
